@@ -30,7 +30,7 @@ class Matemagica{
         return this.a/ this.b
     }
 
-    public getDiv(){
+    public GetDiv(){
         return this.Div()
     }
 
