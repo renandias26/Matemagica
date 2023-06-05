@@ -1,0 +1,16 @@
+@startuml
+class Matemagica{
+    -a: NUMBER
+    -b: NUMBER
+    +SetA()
+    +SetB()
+    -Sum()
+    +GetSum()
+    -Sub()
+    +GetSub()
+    -Div()
+    +GetDiv()
+    -Mul()
+    +GetMul()
+}
+@enduml
